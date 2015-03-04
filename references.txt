@@ -1,0 +1,12 @@
+
+Sample Data from first paper
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE11352
+
+
+TF Binding Motif
+	http://jaspar.binf.ku.dk/cgi-bin/jaspar_db.pl
+
+
+Information for TF Sp-1
+	http://www.rcsb.org/pdb/protein/P08047?evtc=Suggest&evta=UniProtAccession&evtl=OtherOptions
+
